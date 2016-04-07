@@ -4,7 +4,7 @@
 // Use test data when provided, however your functions should work with any similiarly structured data
 
 // Use of jQuery is acceptable, however any other JavaScript libraries / frameworks should be avoided
-// If you have any questions about this test, please email jjohnson@marketshare.com or amatarazzo@marketshare.com
+// If you have any questions about this test, please email joe.johnson@neustar.biz or FED-Team@neustar.biz
 
 // 1: Write a function that searches collection "projects" to find the object with the lowest "e" value and return that object's "i" value.
 // getLowestValue([{i:10, e: 100},{i:20, e: 200}]); // returns 10
